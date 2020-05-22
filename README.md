@@ -1,4 +1,5 @@
-Projetos
+Projects
 ---
 #### HeadsOrTails
-* Algoritmo para resolver e plotar o resultado aleatório de uma sucessão de jogadas de uma moeda não-viciada em cara ou coroa.
+* Algorithm to solve heads or tails generating a histogram and a .txt with the data from all the coin toss.
+---
